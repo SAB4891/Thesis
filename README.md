@@ -1,2 +1,3 @@
 # Thesis
-Thesis codes 
+Thesis codes
+activation layers cleaning and classifcation  
